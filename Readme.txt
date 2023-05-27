@@ -70,7 +70,6 @@ Se utiliza la función final_winner para determinar al ganador de la ronda final
 
 Contribuidores
 Adrian Infantes - infantesromeroadrian@gmail.com
-Luis Miguel Perez - luismiperez17@gmail.com
-Anthony Perez - anthony
+
 
 Tenga en cuenta que este README resume los pasos y la información proporcionados en el código. Se pueden encontrar más detalles sobre el proyecto y la implementación en el código y en los comentarios del mismo.
